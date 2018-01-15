@@ -2,7 +2,7 @@
 PRACTICE Test 2, practice_problem 2.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and Bethan Baker.
+         their colleagues and Ethan Baker.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
