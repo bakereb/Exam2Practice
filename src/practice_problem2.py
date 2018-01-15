@@ -225,7 +225,6 @@ def practice_problem2b(sequence):
             first = ''
         else:
             first = str(string[0])
-        print(first)
         first_count += str(first)
     return first_count
 
